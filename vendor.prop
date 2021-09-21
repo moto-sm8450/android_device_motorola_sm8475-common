@@ -281,6 +281,9 @@ persist.radio.multisim.config=dsds
 ro.telephony.default_network=33,33
 ro.vendor.use_data_netmgrd=true
 
+# Security patch
+ro.vendor.kernel.security_patch=2026-07-05
+
 # SOC
 ro.hardware.soc.manufacturer=qcom
 ro.soc.manufacturer=QTI
