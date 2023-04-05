@@ -234,6 +234,9 @@ debug.stagefright.c2inputsurface=-1
 # Motorola
 ro.mot.build.customerid=global
 
+# OEM Unlock
+ro.oem_unlock_supported=1
+
 # Perf
 ro.vendor.extension_library=libqti-perfd-client.so
 vendor.pasr.activemode.enabled=false
